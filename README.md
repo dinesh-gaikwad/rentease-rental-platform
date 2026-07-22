@@ -1,1 +1,0 @@
-# rentease-rental-platform
